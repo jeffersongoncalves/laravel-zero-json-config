@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![laravel-zero-json-config](https://raw.githubusercontent.com/jeffersongoncalves/laravel-zero-json-config/main/art/jeffersongoncalves-laravel-zero-json-config.png)
+
+</div>
+
 # laravel-zero-json-config
 
 A tiny, self-contained JSON configuration service for PHP CLI tools (built with
