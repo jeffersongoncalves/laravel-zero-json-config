@@ -6,6 +6,8 @@
 
 # laravel-zero-json-config
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
+
 A tiny, self-contained JSON configuration service for PHP CLI tools (built with
 Laravel Zero in mind, but framework-free). It separates **where** a config file
 lives (the *scope*) from **how** values are read and written (the *service*),
